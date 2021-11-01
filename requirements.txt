@@ -5,3 +5,4 @@ bs4
 unicode_tr
 djangorestframework
 requests
+cx-Oracle
